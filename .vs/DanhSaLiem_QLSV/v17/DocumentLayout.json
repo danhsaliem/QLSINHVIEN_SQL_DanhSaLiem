@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\DanhSaLiem_QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|e:\\c#\\danhsaliem_qlsv\\danhsaliem_qlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|E:\\c#\\DanhSaLiem_QLSV\\danhsaliem_qlsv\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299256B0-7B96-4673-8AB9-3C82DAD9292F}|DanhSaLiem_QLSV\\DanhSaLiem_QLSV.csproj|solutionrelative:danhsaliem_qlsv\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangKy.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\DangKy.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangKy.cs [Design]",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:16:31.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Home.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\Home.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Home.cs [Design]",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:23:02.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:16:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuenMatKhau.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\QuenMatKhau.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:47:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Home.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\Home.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Home.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:47:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\DangNhap.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\DangNhap.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:22:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\DangNhap.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:15:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\DangNhap.Designer.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangNhap.Designer.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\DangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:38:23.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Program.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\Program.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\Program.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:08:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\DangKy.Designer.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\DangKy.Designer.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\DangKy.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:50:06.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuenMatKhau.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "DanhSaLiem_QLSV\\QuenMatKhau.Designer.cs",
+              "ToolTip": "E:\\c#\\DanhSaLiem_QLSV\\DanhSaLiem_QLSV\\QuenMatKhau.Designer.cs",
+              "RelativeToolTip": "DanhSaLiem_QLSV\\QuenMatKhau.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:47:33.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

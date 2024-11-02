@@ -1,0 +1,13 @@
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\bin\Debug\DanhSaLiem_QLSV.exe.config
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\bin\Debug\DanhSaLiem_QLSV.exe
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\bin\Debug\DanhSaLiem_QLSV.pdb
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.csproj.AssemblyReference.cache
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.DangKy.resources
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.DangNhap.resources
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.Properties.Resources.resources
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.QuenMatKhau.resources
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.csproj.GenerateResource.cache
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.csproj.CoreCompileInputs.cache
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.exe
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.pdb
+E:\c#\DanhSaLiem_QLSV\DanhSaLiem_QLSV\obj\Debug\DanhSaLiem_QLSV.Home.resources
